@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>dataset</folder>
+	<filename>RANIMG_336.JPG</filename>
+	<path>E:\dataset\IMG_8698.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>191</ymin>
+			<xmax>2947</xmax>
+			<ymax>2994</ymax>
+		</bndbox>
+	</object>
+</annotation>

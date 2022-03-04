@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>dataset</folder>
+	<filename>RANIMG_280.JPG</filename>
+	<path>E:\dataset\IMG_8641.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>1193</ymin>
+			<xmax>1604</xmax>
+			<ymax>2123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1284</xmin>
+			<ymin>1938</ymin>
+			<xmax>2573</xmax>
+			<ymax>3796</ymax>
+		</bndbox>
+	</object>
+</annotation>
